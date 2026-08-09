@@ -1,0 +1,10 @@
+Check,Result
+Raw rows,569
+Raw columns,32
+Missing values before cleaning,0
+Duplicate rows before cleaning,0
+Rows after duplicate removal,569
+Missing values after cleaning,0
+Duplicate rows after cleaning,0
+Feature columns used for modelling,30
+Target column,target
